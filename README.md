@@ -13,7 +13,6 @@ Implemented by Me
 - Integration of the AI pipeline into FastAPI
 - CORS configuration for frontend communication
 - Error handling and response formatting
-- Swagger/OpenAPI testing and validation
 
 Provided by AI/ML Team
 - PII detection pipeline (GLiNER-based NER)
